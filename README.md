@@ -1,2 +1,2 @@
 # OPCalc
-Orifice Plates Calculator
+Orifice Plates Calculator (Engineer's Thesis)
